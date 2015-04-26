@@ -15,3 +15,6 @@ Success Criteria:
 1. Most money after x time survives. 
 2. Account for $9.99 cost of investment/divestment.
 3. Be able to provide steps to reproduce success in near term future.
+4. Investing strategy that wins the most over all history ranges proves to be the best strategy. 
+
+Upon selection of most successful investing strategy $1000 will alloted for a real-life trial with check-ins for success at same historical date ranges. 
